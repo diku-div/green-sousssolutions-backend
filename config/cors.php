@@ -19,7 +19,10 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://green-souss-solutions.vercel.app'],
+    'allowed_origins' => [
+    'https://green-souss-solutions-26qntoat8-diku-divs-projects.vercel.app', 
+    'https://green-souss-solutions.vercel.app',
+],
 
     'allowed_origins_patterns' => [],
 
